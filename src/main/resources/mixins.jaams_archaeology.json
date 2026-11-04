@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "net.jaams.archaeology.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.jaams_archaeology.refmap.json",
+  "mixins": [
+  	"ItemStackMixin",
+    "WebBlockMixin",
+    "ItemIdolMixin",
+    "ItemTooltipMixin",
+    "TraitThrowableMixin",
+    "TraitDeflectChargeMixin"
+  ],
+  "client": [
+    "ItemInHandRendererMixin",
+    "ClientTextTooltipMixin"
+  ],
+  "minVersion": "0.8"
+}

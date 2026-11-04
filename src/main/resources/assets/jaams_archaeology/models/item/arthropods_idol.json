@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "forge_data": {
+    "layers": {
+      "1": {
+        "block_light": 15,
+        "sky_light": 15
+      }
+    }
+  },
+  "loader": "forge:item_layers",
+  "render_types": {},
+  "textures": {
+    "layer0": "jaams_archaeology:item/arthropods_idol_0",
+    "layer1": "jaams_archaeology:item/arthropods_idol_1"
+  }
+}

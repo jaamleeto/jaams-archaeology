@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "jaams_archaeology:sword_of_undying",
+      "required": false
+    }
+  ]
+}

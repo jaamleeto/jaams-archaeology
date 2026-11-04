@@ -1,0 +1,37 @@
+# Gradle build system ignores
+.gradle/
+build/
+
+# Other IDE related folders
+.idea/
+.settings/
+
+# Minecraft client/server files
+run/
+
+# MacOS system files
+.DS_STORE
+
+# Node.js modules (Prettier removed)
+node_modules/
+
+# IDE/Editor folders
+.vscode/
+.zed/
+
+# Build output
+bin/
+
+# Tools
+tools/
+
+# Editor config
+.editorconfig
+
+# Windows reserved names
+nul
+
+# Other Files (In Eclipse)
+.classpath
+.project
+.eclipse/

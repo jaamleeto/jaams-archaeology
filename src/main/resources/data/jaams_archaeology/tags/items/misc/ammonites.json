@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "jaams_archaeology:petrified_ammonite",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:ossified_ammonite",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:shiny_ammonite",
+      "required": false
+    }
+  ]
+}

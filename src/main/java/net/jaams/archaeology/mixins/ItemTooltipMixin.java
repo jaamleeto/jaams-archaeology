@@ -1,0 +1,30 @@
+package net.jaams.archaeology.mixins;
+
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.Mixin;
+
+import net.minecraft.world.level.Level;
+import net.minecraft.world.item.TooltipFlag;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Item;
+import net.minecraft.network.chat.Component;
+
+import net.jaams.archaeology.tooltip.SpearFragmentItemTooltip;
+import net.jaams.archaeology.tooltip.PrimitiveSpearItemTooltip;
+import net.jaams.archaeology.tooltip.DeflectChargeItemTooltip;
+
+import javax.annotation.Nullable;
+
+import java.util.List;
+
+@Mixin(Item.class)
+public abstract class ItemTooltipMixin {
+	@Inject(method = "appendHoverText", at = @At("HEAD"))
+	private void addCustomTooltipsHead(ItemStack stack, @Nullable Level level, List<Component> tooltip, TooltipFlag flag, CallbackInfo ci) {
+		DeflectChargeItemTooltip.add(stack, tooltip);
+		PrimitiveSpearItemTooltip.add(stack, tooltip);
+		SpearFragmentItemTooltip.add(stack, tooltip);
+	}
+}

@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="jaams_archaeology"
+version="1.0.0"
+displayName="Jaam's Archaeology"
+displayURL="https://linktr.ee/jaamleeto"
+logoFile="jaams_archaeology_banner.png"
+authors="Jaamleeto"
+description="Jaams Archaeology is a mod focused on expanding archaeology. Discover ancient artifacts, unearth hidden treasures."
+issueTrackerURL="https://github.com/jaamleeto/jaams-archaeology/issues"
+
+
+[[dependencies.jaams_archaeology]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[modproperties."jaams_archaeology"]
+catalogueItemIcon="jaams_archaeology:broken_sword_fragment"
+catalogueBackground="jaams_archaeology_background.png"
+configuredBackground="minecraft:textures/block/spruce_planks.png"
+
+[[mixins]]
+config="mixins.jaams_archaeology.epicfight.json"
+requiredMods=["epicfight"]
+

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "jaams_archaeology:explosive_idol",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:strange_idol",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:skeletal_idol",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:rotten_idol",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:traitor_idol",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:guardian_idol",
+      "required": false
+    },
+    {
+      "id": "jaams_archaeology:arthropods_idol",
+      "required": false
+    }
+  ]
+}

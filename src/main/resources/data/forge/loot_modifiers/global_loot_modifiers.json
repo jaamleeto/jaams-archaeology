@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "entries": [
+    "jaams_archaeology:add_items",
+    "jaams_archaeology:add_archaeology_items"
+  ]
+}

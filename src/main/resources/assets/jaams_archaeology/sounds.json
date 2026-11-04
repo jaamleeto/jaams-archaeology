@@ -1,0 +1,248 @@
+{
+  "ammonite_fired": {
+    "subtitle": "subtitles.ammonite_fired",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:ammonite_fired",
+        "stream": false
+      }
+    ]
+  },
+  "ammonite_breaks": {
+    "subtitle": "subtitles.ammonite_breaks",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:ammonite_breaks",
+        "stream": false
+      }
+    ]
+  },
+  "primitive_spear_fired": {
+    "subtitle": "subtitles.primitive_spear_fired",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:primitive_spear_fired",
+        "stream": false
+      }
+    ]
+  },
+  "primitive_spear_ground": {
+    "subtitle": "subtitles.primitive_spear_ground",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:primitive_spear_ground",
+        "stream": false
+      }
+    ]
+  },
+  "primitive_spear_hit": {
+    "subtitle": "subtitles.primitive_spear_hit",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:primitive_spear_hit",
+        "stream": false
+      }
+    ]
+  },
+  "primitive_spear_return": {
+    "subtitle": "subtitles.primitive_spear_return",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:primitive_spear_return",
+        "stream": false
+      }
+    ]
+  },
+  "spear_fragment_fired": {
+    "subtitle": "subtitles.spear_fragment_fired",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:spear_fragment_fired",
+        "stream": false
+      }
+    ]
+  },
+  "spear_fragment_ground": {
+    "subtitle": "subtitles.spear_fragment_ground",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:spear_fragment_ground",
+        "stream": false
+      }
+    ]
+  },
+  "spear_fragment_hit": {
+    "subtitle": "subtitles.spear_fragment_hit",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:spear_fragment_hit",
+        "stream": false
+      }
+    ]
+  },
+  "idol_breaks": {
+    "subtitle": "subtitles.idol_breaks",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:idol_breaks",
+        "stream": false
+      }
+    ]
+  },
+  "empty_sound": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:empty_sound",
+        "stream": false
+      }
+    ]
+  },
+  "explosive_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:explosive_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "explosive_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:explosive_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "rotten_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:rotten_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "rotten_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:rotten_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "skeletal_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:skeletal_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "skeletal_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:skeletal_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "traitor_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:traitor_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "traitor_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:traitor_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "strange_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:strange_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "strange_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:strange_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "guardian_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:guardian_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "guardian_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:guardian_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "arthropods_vigor_started": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:arthropods_vigor_started",
+        "stream": false
+      }
+    ]
+  },
+  "arthropods_vigor_expires": {
+    "sounds": [
+      {
+        "name": "jaams_archaeology:arthropods_vigor_expires",
+        "stream": false
+      }
+    ]
+  },
+  "projectile_ground": {
+    "subtitle": "subtitles.projectile_ground",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:projectile_ground",
+        "stream": false
+      }
+    ]
+  },
+  "projectile_return": {
+    "subtitle": "subtitles.projectile_return",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:projectile_return",
+        "stream": false
+      }
+    ]
+  },
+  "projectile_hit": {
+    "subtitle": "subtitles.projectile_hit",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:projectile_hit",
+        "stream": false
+      }
+    ]
+  },
+  "projectile_throw": {
+    "subtitle": "subtitles.projectile_throw",
+    "sounds": [
+      {
+        "name": "jaams_archaeology:projectile_throw",
+        "stream": false
+      }
+    ]
+  }
+}

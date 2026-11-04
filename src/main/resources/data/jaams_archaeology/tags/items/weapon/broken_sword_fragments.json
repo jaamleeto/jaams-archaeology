@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "jaams_archaeology:broken_sword_fragment",
+      "required": false
+    }
+  ]
+}
